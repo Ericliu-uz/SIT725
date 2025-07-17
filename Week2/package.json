@@ -1,0 +1,22 @@
+{
+  "name": "s725",
+  "version": "1.0.0",
+  "description": "S725 workshop practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ericliu-uz/S725.git"
+  },
+  "author": "Eric Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ericliu-uz/S725/issues"
+  },
+  "homepage": "https://github.com/Ericliu-uz/S725#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
