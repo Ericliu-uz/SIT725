@@ -1,0 +1,23 @@
+{
+  "name": "2.2p",
+  "version": "1.0.0",
+  "description": "2.2P OnTrack task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ericliu-uz/SIT725.git"
+  },
+  "author": "Eric Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ericliu-uz/SIT725/issues"
+  },
+  "homepage": "https://github.com/Ericliu-uz/SIT725#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
