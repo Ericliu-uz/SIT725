@@ -1,0 +1,23 @@
+{
+  "name": "week3_workshop",
+  "version": "1.0.0",
+  "description": "workshop excerise",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ericliu-uz/SIT725.git"
+  },
+  "author": "Eric Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ericliu-uz/SIT725/issues"
+  },
+  "homepage": "https://github.com/Ericliu-uz/SIT725#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
