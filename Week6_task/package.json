@@ -1,0 +1,29 @@
+{
+  "name": "sit725_project",
+  "version": "1.0.0",
+  "description": "workshop excerise",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ericliu-uz/SIT725.git"
+  },
+  "author": "Eric Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ericliu-uz/SIT725/issues"
+  },
+  "homepage": "https://github.com/Ericliu-uz/SIT725#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.17.0"
+  },
+  "devDependencies": {
+    "chai": "^5.3.1",
+    "mocha": "^11.7.1",
+    "request": "^2.88.2"
+  }
+}
